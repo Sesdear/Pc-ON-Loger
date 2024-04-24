@@ -7,6 +7,7 @@ from telebot.async_telebot import AsyncTeleBot
 bot = AsyncTeleBot("Токен Бота")
 chat_id = <Ваш chat_id>
 ########################################################
+    
 time = datetime.datetime.now()
 
 
