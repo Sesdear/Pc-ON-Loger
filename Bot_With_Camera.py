@@ -3,10 +3,12 @@ import datetime
 
 import cv2
 from telebot.async_telebot import AsyncTeleBot
-
+########################################################
+### Переменные
 bot = AsyncTeleBot("Токен Бота")
 chat_id = <Ваш chat_id>
-
+########################################################
+    
 time = datetime.datetime.now()
 
 
